@@ -1,6 +1,5 @@
-
 import PropTypes from 'prop-types';
-
+import './TicketCard.css'
 const TicketCard = ({ ticket }) => {
   return (
     <div className="ticket-card">
